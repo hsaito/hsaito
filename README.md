@@ -1,16 +1,13 @@
-### Hi there 👋
+### Welcome to Hideki Saito's Repository
+#### Codes
 
-<!--
-**hsaito/hsaito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- A lot of C#
+  - Blazor
+  - PowerShell Modules
 
-Here are some ideas to get you started:
+### Other Places to Visit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Hideki Saito Official Website](https://hidekisaito.com)
+- [Twitter](https://twitter.com/hideki)
+- [https://www.facebook.com/hideki](Facebook)
+- [https://www.youtube.com/HidekiSaito](YouTube)
