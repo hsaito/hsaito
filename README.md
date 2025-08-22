@@ -9,6 +9,10 @@
 ### Other Places to Visit
 
 - [Hideki Saito Official Website](https://hidekisaito.com)
-- [Twitter](https://twitter.com/hideki)
+- [LinkedIn](https://www.linkedin.com/in/hideki/)
+- [BlueSky](https://bsky.app/profile/hidekisaito.com)
+- [X](https://twitter.com/hideki)
 - [Facebook](https://www.facebook.com/hideki)
+  - [Threads](https://www.threads.com/@hsaito)
+  - [Instagram](https://www.instagram.com/hsaito/)
 - [YouTube](https://www.youtube.com/HidekiSaito)
