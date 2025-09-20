@@ -39,7 +39,7 @@ I love C#, Blazor, PowerShell, and building cool things for the web.
 - 🧑‍💻 **Languages:**  
   ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
   ![PowerShell](https://img.shields.io/badge/PowerShell-2CA5E0?style=flat&logo=powershell&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
 - 🛠️ **Frameworks & Tools:**  
@@ -47,16 +47,6 @@ I love C#, Blazor, PowerShell, and building cool things for the web.
   ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
   ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
----
-
-### 📂 Featured Projects
-
-- [**web-hidekipedia_hidekisaito_com**](https://github.com/hsaito/web-hidekipedia_hidekisaito_com)  
-- [**SonglistViewer**](https://github.com/hsaito/SonglistViewer)  
-- [**PremiumFriday**](https://github.com/hsaito/PremiumFriday)  
-- [**HSSingLog**](https://github.com/hsaito/HSSingLog)  
-- [**web-hidekisaito_com**](https://github.com/hsaito/web-hidekisaito_com)  
 
 ---
 
